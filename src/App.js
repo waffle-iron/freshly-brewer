@@ -1,11 +1,14 @@
 import React, { Component } from 'react';
 
 import Splash from './components/Splash';
+import './App.css';
 
 class App extends Component {
   render() {
     return (
-      <Splash />
+      <div className="App">
+        <Splash />
+      </div>
     );
   }
 }

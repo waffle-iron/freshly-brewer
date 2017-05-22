@@ -1,0 +1,14 @@
+// fonts
+
+$freight: 'Freight-Book', 'serif';
+$avenir-medium: 'Freight-Book', 'sans-serif';
+
+@font-face {
+  font-family: 'Freight-Book';
+  src: url(styles/fonts/freight-big-book.otf);
+}
+
+@font-face {
+  font-family: 'AvenirMedium';
+  src: url(styles/fonts/avenir-next-medium.ttf);
+}
