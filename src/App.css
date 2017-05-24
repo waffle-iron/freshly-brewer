@@ -1,10 +1,13 @@
 @font-face {
   font-family: 'Freight-Book';
-  src: url(styles/fonts/freight-big-book.otf); }
+  src: url(styles/fonts/freight-big-book.otf);
+}
 
 @font-face {
   font-family: 'AvenirMedium';
-  src: url(styles/fonts/avenir-next-medium.ttf); }
+  src: url(styles/fonts/avenir-next-medium.ttf);
+}
 
 .App {
-  font-family: "Freight-Book", "serif"; }
+  font-family: "Freight-Book", "serif";
+}
