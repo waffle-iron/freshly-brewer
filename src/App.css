@@ -4,10 +4,16 @@
 }
 
 @font-face {
-  font-family: 'AvenirMedium';
+  font-family: 'AvenirNextMedium';
   src: url(styles/fonts/avenir-next-medium.ttf);
 }
 
+@font-face {
+  font-family: 'AvenirNextBold';
+  src: url(styles/fonts/avenir-next-bold.ttf);
+}
+
 .App {
-  font-family: "Freight-Book", "serif";
+  width: 90%;
+  margin: 0 auto;
 }
