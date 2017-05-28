@@ -1,8 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const HeaderCore = ({ className, type, children }) => {
-  const HeaderTag = `h${type}`;
+const HeaderCore = ({ className, tag, children }) => {
+  const HeaderTag = tag;
 
   return (
     <HeaderTag className={className}>{children}</HeaderTag>
@@ -11,7 +11,7 @@ const HeaderCore = ({ className, type, children }) => {
 
 const Header = styled(HeaderCore)`
   margin: 0;
-  font-family: "Freight-Book", "serif";
+  font-family: "FreightBook", "serif";
   letter-spacing: 3px;  
 `
 

@@ -1,11 +1,11 @@
 @font-face {
-  font-family: 'Freight-Book';
+  font-family: 'FreightBook';
   src: url(styles/fonts/freight-big-book.otf);
 }
 
 @font-face {
-  font-family: 'AvenirNextMedium';
-  src: url(styles/fonts/avenir-next-medium.ttf);
+  font-family: 'AvenirNextRegular';
+  src: url(styles/fonts/avenir-next-regular.ttf);
 }
 
 @font-face {

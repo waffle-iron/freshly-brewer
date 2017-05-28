@@ -8,7 +8,7 @@ const NavItem = styled.li`
   margin-left: 30px;
   float: left;
   font-size: 12px;
-  color: ${richBlack}
+  color: ${richBlack};
   letter-spacing: 3px;
 `
 

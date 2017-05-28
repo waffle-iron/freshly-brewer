@@ -15,7 +15,7 @@ const NavBarCore = ({ className }) => {
       middle
     >
       <Col width={6}>
-        <Header type={1}>MORGAN & TYLER</Header>
+        <Header tag="h1">MORGAN & TYLER</Header>
       </Col>
       <Col width={6}>
         <NavList>
