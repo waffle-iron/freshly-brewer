@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://tylerbrewer2.github.io/freshly-brewer",
   "dependencies": {
+    "date-fns": "^1.28.5",
     "gh-pages": "^0.12.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",

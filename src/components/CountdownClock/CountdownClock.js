@@ -7,11 +7,15 @@ import ClockText from './ClockText'
 
 const CountdownClockCore = ({ className }) => {
   return(
-    <section>
+    <section className={className}>
       <LargeText color="white">December 2nd, 2017</LargeText>
       <ClockText />
     </section>
   )
 }
 
-export default CountdownClockCore;
+const CountdownClock = styled(CountdownClockCore)`
+  text-align: center;
+`
+
+export default CountdownClock;

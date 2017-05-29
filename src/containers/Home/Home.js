@@ -4,6 +4,7 @@ import CountdownSection from '../../components/CountdownSection';
 import FullWidthImage from '../../components/FullWidthImage';
 import NavBar from '../../components/NavBar';
 import PersonalInfo from '../../components/PersonalInfo';
+import RSVPSection from '../../components/RSVPSection';
 import Splash from '../../components/Splash';
 
 import powerPlant from '../../images/powerPlant.jpeg'
@@ -16,6 +17,7 @@ const Home = ({}) => {
       <FullWidthImage src={powerPlant}/>
       <PersonalInfo />
       <CountdownSection backgroundImage={views}/>
+      <RSVPSection />
     </div>
   )
 }
