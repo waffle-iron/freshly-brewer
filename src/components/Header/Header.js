@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 const HeaderCore = ({ className, tag, children }) => {
-  const HeaderTag = tag;
+  const HeaderTag = tag || "h1";
 
   return (
     <HeaderTag className={className}>{children}</HeaderTag>

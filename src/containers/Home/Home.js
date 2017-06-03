@@ -1,6 +1,7 @@
 import React from 'react';
 
 import CountdownSection from '../../components/CountdownSection';
+import Footer from '../../components/Footer';
 import FullWidthImage from '../../components/FullWidthImage';
 import NavBar from '../../components/NavBar';
 import PersonalInfo from '../../components/PersonalInfo';
@@ -18,6 +19,7 @@ const Home = ({}) => {
       <PersonalInfo />
       <CountdownSection backgroundImage={views}/>
       <RSVPSection />
+      <Footer />
     </div>
   )
 }
