@@ -1,0 +1,38 @@
+exports[`test renders correctly 1`] = `
+<div
+  className="sc-bxivhb iWMrxu middle-xs row">
+  <div
+    className="col-xs-6">
+    <h1
+      className="sc-bdVaJa bErzIe">
+      MORGAN & TYLER
+    </h1>
+  </div>
+  <div
+    className="col-xs-6">
+    <ul
+      className="sc-bwzfXH cVCpNP">
+      <li
+        className="sc-htpNat ccEEWR">
+        HOME
+      </li>
+      <li
+        className="sc-htpNat ccEEWR">
+        CEREMONY
+      </li>
+      <li
+        className="sc-htpNat ccEEWR">
+        GALLERY
+      </li>
+      <li
+        className="sc-htpNat ccEEWR">
+        PARTY
+      </li>
+      <li
+        className="sc-htpNat ccEEWR">
+        FAQ
+      </li>
+    </ul>
+  </div>
+</div>
+`;
