@@ -1,0 +1,6 @@
+exports[`test renders correctly 1`] = `
+<h4
+  className="sc-bdVaJa bErzIe">
+  Test Header
+</h4>
+`;

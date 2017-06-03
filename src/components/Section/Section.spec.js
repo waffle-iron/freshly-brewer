@@ -1,11 +1,13 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
 
-import FullWidthImage from './FullWidthImage';
+import Section from './Section';
 
 it('renders correctly', () => {
   const tree = renderer.create(
-    <FullWidthImage />
+    <Section>
+      Test section
+    </Section>
   ).toJSON();
   expect(tree).toMatchSnapshot();
 });

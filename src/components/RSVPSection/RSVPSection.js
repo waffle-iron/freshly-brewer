@@ -4,7 +4,7 @@ import Section from '../Section';
 import Header from '../Header';
 import LinkButton from '../LinkButton';
 
-const RSVPSection = (prop) => {
+const RSVPSection = ({}) => {
   return(
     <Section centered>
       <Header tag="h1">

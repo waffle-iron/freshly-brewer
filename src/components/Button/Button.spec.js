@@ -1,11 +1,13 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
 
-import FullWidthImage from './FullWidthImage';
+import Button from './Button'
 
 it('renders correctly', () => {
   const tree = renderer.create(
-    <FullWidthImage />
+    <Button>
+      Hello
+    </Button>
   ).toJSON();
   expect(tree).toMatchSnapshot();
 });

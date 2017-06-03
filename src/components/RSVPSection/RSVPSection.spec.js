@@ -1,11 +1,11 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
 
-import FullWidthImage from './FullWidthImage';
+import RSVPSection from './RSVPSection';
 
 it('renders correctly', () => {
   const tree = renderer.create(
-    <FullWidthImage />
+    <RSVPSection />
   ).toJSON();
   expect(tree).toMatchSnapshot();
 });

@@ -1,11 +1,11 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
 
-import FullWidthImage from './FullWidthImage';
+import LargeText from './LargeText';
 
 it('renders correctly', () => {
   const tree = renderer.create(
-    <FullWidthImage />
+    <LargeText />
   ).toJSON();
   expect(tree).toMatchSnapshot();
 });

@@ -1,0 +1,65 @@
+exports[`test renders correctly 1`] = `
+<section
+  className="sc-EHOje epzUwW">
+  <div
+    className="undefined undefined row">
+    <div
+      className="col-xs-5">
+      <div
+        className="sc-htpNat hWTPcG">
+        <h1
+          className="sc-bdVaJa bErzIe">
+          MORGAN LINDSAY PARSONS
+        </h1>
+        <h1
+          className="sc-bdVaJa bErzIe">
+          THE BRIDE
+        </h1>
+        <p
+          className="sc-bwzfXH jCzhFF">
+          Aliquam sodales ligula risus, eget tempus elit pretium quis. Suspendisse nec accumsan diam. Nunc tempus vitae purus et auctor. Donec dictum lectus dui, eu dapibus odio pulvinar id. Fusce sed dolor nec eros rhoncus rhoncus vitae non ante. Donec dignissim mauris vitae nisl ultricies, non sodales erat pharetra. Proin at nisi diam. Aliquam lacus libero, gravida at elit nec, gravida efficitur neque. Maecenas nec augue varius, convallis sem at, porta nunc.
+        </p>
+      </div>
+    </div>
+    <div
+      className="col-xs-2">
+      <div
+        className="sc-ifAKCX fVKAHz">
+        <div
+          className="sc-bxivhb hhnUjy"
+          color="black">
+          M
+        </div>
+        <div
+          className="sc-bxivhb hhnUjy"
+          color="black">
+          x
+        </div>
+        <div
+          className="sc-bxivhb hhnUjy"
+          color="black">
+          T
+        </div>
+      </div>
+    </div>
+    <div
+      className="col-xs-5">
+      <div
+        className="sc-htpNat fecyWI">
+        <h1
+          className="sc-bdVaJa bErzIe">
+          TYLER CLARK BREWER
+        </h1>
+        <h1
+          className="sc-bdVaJa bErzIe">
+          THE GROOM
+        </h1>
+        <p
+          className="sc-bwzfXH jCzhFF">
+          Aliquam sodales ligula risus, eget tempus elit pretium quis. Suspendisse nec accumsan diam. Nunc tempus vitae purus et auctor. Donec dictum lectus dui, eu dapibus odio pulvinar id. Fusce sed dolor nec eros rhoncus rhoncus vitae non ante. Donec dignissim mauris vitae nisl ultricies, non sodales erat pharetra. Proin at nisi diam. Aliquam lacus libero, gravida at elit nec, gravida efficitur neque. Maecenas nec augue varius, convallis sem at, porta nunc.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+`;
